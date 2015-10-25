@@ -1,0 +1,17 @@
+{>"layouts/master" /}
+
+{<body}
+
+
+<div class="row">
+	
+	<div class="large-12 column">
+		<p> Welcome to the about page. We are deeply passionate about tech and want to provide the right resources for you to learn. 
+			Please check out our collection of books to help take you to the next level in you web development career.
+		</p>
+
+	</div>
+
+</div>
+
+{/body}

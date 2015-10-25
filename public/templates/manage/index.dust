@@ -1,0 +1,6 @@
+{>"layouts/manage" /}
+
+{<body}
+	<h2> Manager </h2>
+	<p> this is the manager area </p>
+{/body}
